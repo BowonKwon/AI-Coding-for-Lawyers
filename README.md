@@ -2,7 +2,7 @@
 
 『법률가를 위한 인공지능 코딩 자습서』의 실습 코드와 Colab 노트북입니다. 책의 장마다 「실습 3단계」가 있고, 이 저장소의 노트북은 그 세 단계를 그대로 따릅니다.
 
-책은 공개 준비 중입니다. 공개되면 이 자리에 주소를 적습니다.
+책은 [화면본](https://bowonkwon.github.io/AI-Assisted-Handbooks/ai-coding-for-lawyers/)과 [PDF](https://bowonkwon.github.io/AI-Assisted-Handbooks/ai-coding-for-lawyers/ai-coding-for-lawyers-v1.0.pdf)로 읽을 수 있습니다.
 
 | 단계 | 하는 일 | 노트북 |
 |---|---|---|
@@ -76,4 +76,4 @@ git clone https://github.com/BowonKwon/AI-Coding-for-Lawyers.git
 
 ---
 
-**English.** Practice code and Colab notebooks for *AI coding for lawyers: a self-study handbook* (in Korean). The handbook itself is being prepared for release; its address will be added here once it is public. Each chapter has up to three notebooks: follow along, annotate, and rebuild. Click a stage in the table above to open it in Google Colab; the first cell clones this repository. Text is licensed under CC BY-NC 4.0 and code under the PolyForm Noncommercial License 1.0.0, to the extent the editor holds rights in them. This is a personal study project and does not represent the views or work of the editor's institution; all cases in the examples are fictional.
+**English.** Practice code and Colab notebooks for *AI coding for lawyers: a self-study handbook* (in Korean). The handbook can be read [online](https://bowonkwon.github.io/AI-Assisted-Handbooks/ai-coding-for-lawyers/) or as a [PDF](https://bowonkwon.github.io/AI-Assisted-Handbooks/ai-coding-for-lawyers/ai-coding-for-lawyers-v1.0.pdf). Each chapter has up to three notebooks: follow along, annotate, and rebuild. Click a stage in the table above to open it in Google Colab; the first cell clones this repository. Text is licensed under CC BY-NC 4.0 and code under the PolyForm Noncommercial License 1.0.0, to the extent the editor holds rights in them. This is a personal study project and does not represent the views or work of the editor's institution; all cases in the examples are fictional.
