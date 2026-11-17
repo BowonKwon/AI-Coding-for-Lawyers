@@ -1,0 +1,23 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python Debugger: Current File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "cwd": "${fileDirname}",
+            "justMyCode": true
+        },
+        {
+            "name": "Python Debugger: case_report with args",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/ch04/case_report.py",
+            "args": ["cases_all.csv"],
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/ch04"
+        }
+    ]
+}

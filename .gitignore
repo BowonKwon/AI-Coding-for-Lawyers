@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# 실습이 만드는 것
+results/
+*.pt
+/data/MNIST/
+/data/FashionMNIST/
+/data/shapes/
+/code/data/
+/code/04/cases_all.csv
